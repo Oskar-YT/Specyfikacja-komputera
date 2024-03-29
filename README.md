@@ -19,4 +19,5 @@ Nazwa komputera: MCOskar-PC
 Nazwa użytkownika: MCOskar
 
 ![IMG20240326201630](https://github.com/Oskar-YT/Specyfikacja-komputera/assets/92621175/2bedd6b4-7838-41d2-9bec-01ee23ff5e4b)
-![image](https://github.com/Oskar-YT/Specyfikacja-komputera/assets/92621175/b7df1cf8-f119-4912-b8dc-a562c11e3dc1)
+![image](https://github.com/Oskar-YT/Specyfikacja-komputera/assets/92621175/a71585f9-5c32-4352-ae6f-bbce15dad22b)
+Musiałem drugi raz ten zrzut dać po niechcący pokazałem adres email, więc musiałem go wycenzurować
